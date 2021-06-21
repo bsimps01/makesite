@@ -1,3 +1,3 @@
-module makesite
+module github.com/bsimps01/makesite
 
-go 1.13
+go 1.15
